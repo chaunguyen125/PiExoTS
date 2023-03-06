@@ -1,0 +1,20 @@
+{
+  "name": "pixijs-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@pixi/assets": "^7.1.4",
+    "@pixi/particle-container": "^7.1.4",
+    "flyd": "0.2.8",
+    "pixi.js": "^7.1.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
